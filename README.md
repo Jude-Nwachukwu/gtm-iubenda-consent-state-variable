@@ -126,5 +126,5 @@ After importing the template, configure the following fields:
 
 ## 🤝 Author
 
-Developed by \[Your Name or Team].
+Developed by **Jude Nwachukwu Onyejekwe**.
 Feedback and contributions are welcome!
