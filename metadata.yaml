@@ -2,5 +2,5 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-iubenda-consent-state-variable
 versions:
-  - sha: XXX
+  - sha: a766665c87440181018dccf5790272ce7e206724
     changeNotes: Initial release.
