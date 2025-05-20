@@ -13,7 +13,7 @@ ___INFO___
   "id": "cvt_temp_public_id",
   "version": 1,
   "securityGroups": [],
-  "displayName": "Iubenda CMP Consent State",
+  "displayName": "DD Iubenda CMP Consent State (Unofficial)",
   "description": "Use with the Iubenda CMP to identify the individual website user\u0027s consent state and configure when tags should execute.",
   "containerContexts": [
     "WEB"
@@ -542,6 +542,6 @@ scenarios: []
 
 ___NOTES___
 
-Created on 5/5/2025, 9:30:07 AM
+Created on 5/20/2025, 9:39:08 AM
 
 
