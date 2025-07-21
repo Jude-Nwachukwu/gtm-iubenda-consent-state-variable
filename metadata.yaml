@@ -3,9 +3,11 @@ homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-iubenda-consent-state-variable
 versions:
 # LATEST VERSION
+  - sha: 3df690228ead9ab91d7ff49d1df19ff105ffe1af
+    changeNotes: Includes the mandatory category information.
+
+#OLDER VERSION
   - sha: 9886d32060a4de4f8b5e04ae6fa008fb9143002e
     changeNotes: Updated the variable custom template name.
-
-#INITIAL VERSION
   - sha: a766665c87440181018dccf5790272ce7e206724
     changeNotes: Initial release.
