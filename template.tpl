@@ -14,6 +14,9 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "DD Iubenda CMP Consent State (Unofficial)",
+  "categories": [
+    "TAG_MANAGEMENT"
+  ],
   "description": "Use with the Iubenda CMP to identify the individual website user\u0027s consent state and configure when tags should execute.",
   "containerContexts": [
     "WEB"
